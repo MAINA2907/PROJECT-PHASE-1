@@ -1,0 +1,112 @@
+{
+  "nailStyles": [
+    {
+      "id": "1",
+      "name": "French Tips",
+      "description": "Classic French tips with a subtle pink base and white tips.",
+      "price": 25.99,
+      "image": "./assets/basic-manicure.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Ombre Nails",
+      "description": "Beautiful ombre nails that transition from light to dark.",
+      "price": 35.99,
+      "image": "ombre_nails.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Glitter Glam",
+      "description": "Glamorous nails with a touch of sparkle and glitter.",
+      "price": 29.99,
+      "image": "glitter_glam.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Matte Finish",
+      "description": "Chic matte finish nails for an elegant look.",
+      "price": 27.99,
+      "image": "matte_finish.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Chrome Nails",
+      "description": "Trendy chrome nails with a mirror-like finish.",
+      "price": 39.99,
+      "image": "chrome_nails.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Neon Brights",
+      "description": "Vibrant neon nails to make a bold statement.",
+      "price": 32.99,
+      "image": "neon_brights.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Marble Manicure",
+      "description": "Elegant marble manicure with swirling patterns.",
+      "price": 34.99,
+      "image": "marble_manicure.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Rose Gold Accents",
+      "description": "Feminine nails with delicate rose gold accents.",
+      "price": 31.99,
+      "image": "rose_gold_accents.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Stiletto Nails",
+      "description": "Edgy stiletto nails for a fierce look.",
+      "price": 37.99,
+      "image": "stiletto_nails.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Fruit Nail Art",
+      "description": "Fun and colorful nail art featuring fruity designs.",
+      "price": 33.99,
+      "image": "fruit_nail_art.jpg"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "1955",
+      "name": "RoseMary Nyambura",
+      "date": "16/04/2024",
+      "message": "I would like a full nail art session from 4pm"
+    },
+    {
+      "id": "fa2a",
+      "name": "Catherine",
+      "date": "16/04/2024",
+      "message": "i would like a feminine nails with delicate rose gold accents at 5pm"
+    },
+    {
+      "id": "19be",
+      "name": "yyvone",
+      "date": "16/04/2024",
+      "message": "Fun and colorful nail art featuring fruity designs. at 3pm\n"
+    },
+    {
+      "id": "27da",
+      "name": "Gila ",
+      "date": "16/04/2024",
+      "message": "Fun and colorful nail art featuring fruity designs."
+    },
+    {
+      "id": "baa0",
+      "name": "Wendy",
+      "date": "17/04/2024",
+      "message": "Fun and colorful nail art featuring fruity designs."
+    },
+    {
+      "id": "b0ba",
+      "name": "Laurine",
+      "date": "17/04/2024",
+      "message": "Fun and colorful nail art featuring fruity designs."
+    }
+  ]
+}
