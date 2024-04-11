@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const submit = document.getElementById("button-submit");
 
     const listItems = document.getElementById("nail-list");
-    fetch("http://localhost:3000/nailStyles")
+    fetch("https://json-server-1-o7j2.onrender.com/nailStyles")
     .then((response) => (response.json()))
     .then(data =>  (data.forEach((item) =>{
         const li = document.createElement("li");
@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     form.addEventListener("submit", (event)=> {
         event.preventDefault();
-        fetch("http://localhost:3000/appointments")
+        fetch("https://json-server-1-o7j2.onrender.com/appointments")
         .then((response) => (response.json()))
         .then(data =>  {
         const bookedAppoinments = data.filter((btnA) =>{
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if(bookedAppoinments.length > 3){
         alert("The day is fully booked!Kindly check another date!");
     }else {
-        fetch("http://localhost:3000/appointments", {
+        fetch("https://json-server-1-o7j2.onrender.com/appointments", {
        
         method:"POST",
         headers: {
