@@ -4,36 +4,36 @@
       "id": "1",
       "name": "French Tips",
       "description": "Classic French tips.",
-      "price": 25.99,
+      "price": 1000,
       "image": "./assets/basic-manicure.jpg"
     },
     {
       "id": "2",
       "name": "Ombre Nails",
       "description": "Beautiful ombre nails.",
-      "price": 35.99,
-      "image": "ombre_nails.jpg"
+      "price": 1500,
+      "image": "./assets/image3.jpg"
     },
     {
       "id": "3",
       "name": "Glitter Glam",
       "description": "Glamorous nails.",
-      "price": 29.99,
-      "image": "glitter_glam.jpg"
+      "price": 2500,
+      "image": "./assets/image6.jpg"
     },
     {
       "id": "4",
       "name": "Matte Finish",
       "description": "Chic matte.",
-      "price": 27.99,
-      "image": "matte_finish.jpg"
+      "price": 2700,
+      "image": "./assets/image11.jpg"
     },
     {
       "id": "5",
       "name": "Chrome Nails",
       "description": "Trendy chrome nails.",
-      "price": 39.99,
-      "image": "chrome_nails.jpg"
+      "price": 3500,
+      "image": "./assets/image12.jpg"
     }
   ],
   "appointments": [
