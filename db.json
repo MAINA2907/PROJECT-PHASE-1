@@ -3,72 +3,37 @@
     {
       "id": "1",
       "name": "French Tips",
-      "description": "Classic French tips with a subtle pink base and white tips.",
+      "description": "Classic French tips.",
       "price": 25.99,
       "image": "./assets/basic-manicure.jpg"
     },
     {
       "id": "2",
       "name": "Ombre Nails",
-      "description": "Beautiful ombre nails that transition from light to dark.",
+      "description": "Beautiful ombre nails.",
       "price": 35.99,
       "image": "ombre_nails.jpg"
     },
     {
       "id": "3",
       "name": "Glitter Glam",
-      "description": "Glamorous nails with a touch of sparkle and glitter.",
+      "description": "Glamorous nails.",
       "price": 29.99,
       "image": "glitter_glam.jpg"
     },
     {
       "id": "4",
       "name": "Matte Finish",
-      "description": "Chic matte finish nails for an elegant look.",
+      "description": "Chic matte.",
       "price": 27.99,
       "image": "matte_finish.jpg"
     },
     {
       "id": "5",
       "name": "Chrome Nails",
-      "description": "Trendy chrome nails with a mirror-like finish.",
+      "description": "Trendy chrome nails.",
       "price": 39.99,
       "image": "chrome_nails.jpg"
-    },
-    {
-      "id": "6",
-      "name": "Neon Brights",
-      "description": "Vibrant neon nails to make a bold statement.",
-      "price": 32.99,
-      "image": "neon_brights.jpg"
-    },
-    {
-      "id": "7",
-      "name": "Marble Manicure",
-      "description": "Elegant marble manicure with swirling patterns.",
-      "price": 34.99,
-      "image": "marble_manicure.jpg"
-    },
-    {
-      "id": "8",
-      "name": "Rose Gold Accents",
-      "description": "Feminine nails with delicate rose gold accents.",
-      "price": 31.99,
-      "image": "rose_gold_accents.jpg"
-    },
-    {
-      "id": "9",
-      "name": "Stiletto Nails",
-      "description": "Edgy stiletto nails for a fierce look.",
-      "price": 37.99,
-      "image": "stiletto_nails.jpg"
-    },
-    {
-      "id": "10",
-      "name": "Fruit Nail Art",
-      "description": "Fun and colorful nail art featuring fruity designs.",
-      "price": 33.99,
-      "image": "fruit_nail_art.jpg"
     }
   ],
   "appointments": [
