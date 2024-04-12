@@ -12,10 +12,10 @@ document.addEventListener("DOMContentLoaded", () => {
     .then(data =>  (data.forEach((item) =>{
         const li = document.createElement("li");
         li.innerHTML = `
-        <p class="style-js">name: ${item.name}</p>
+        <img src="${item.image}"/>
         <p class="style-js">description: ${item.description}</p>
         <p class="style-js">price: ${item.price}</p>
-        <img src="${item.image}"/>
+        
         `
         listItems.appendChild(li);
     })))
