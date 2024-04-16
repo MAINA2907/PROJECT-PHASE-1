@@ -7,6 +7,8 @@
 ## Description
 It is a solution to a nail spa whereby you book an appointment prior to avoid being held at the nail spa for long queues.
 If the day is fully booked it asks you to book another day for the day is fully booked.
+If the day you booked an appointment is not fully booked it confirms that you have succesfully booked the appointment.
+
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
